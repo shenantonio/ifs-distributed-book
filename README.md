@@ -1,2 +1,2 @@
 # ifs-distributed-book
-# let's beginning
+# Let's begin
