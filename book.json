@@ -1,0 +1,48 @@
+{
+    "plugins": ["mermaid-gb3","page-numbering","multipart"],
+    "output": null,
+    "generator": "site",
+    "title": "ifs-distributed",
+    "description": "IFS分布式开发架构使用指南",
+    "isbn": "",
+    "extension": null,
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "sepia",
+            "family": "serif",
+            "size": "2"
+        },
+        "sectionx": {
+          "tag": "b"
+        },
+        "theme-default": {
+           "showLevel": true,
+           "styles": {
+           "website": "build/gitbook.css"
+            }
+    }
+    },
+    "variables": {},
+    "links": {
+        "sharing": {
+            "google": null,
+            "facebook": null,
+            "twitter": null,
+            "weibo": null,
+            "all": null
+        }
+    },
+    "pdf": {
+        "pageNumbers": false,
+        "fontSize": 12,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 36,
+            "bottom": 36
+        },
+        "headerTemplate": null,
+        "footerTemplate": null
+    }
+}
